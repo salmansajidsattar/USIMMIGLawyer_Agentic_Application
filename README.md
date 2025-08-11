@@ -2,7 +2,7 @@
 
 > Intelligent SaaS platform providing AI-powered legal assistance for USA immigration matters
 
-[![Demo Video](https://img.shields.io/badge/📹-Watch%20Demo-red)](https://github.com/salmansajidsattar/USIMMIGLawyer_Agentic_Application/blob/main/Screen%20Recording%202025-08-08%20025541.mp4)
+[![Demo Video](https://img.shields.io/badge/📹-Watch%20Demo-red)](https://drive.google.com/file/d/1T0xcrzG7OiIoX8Onb36MIHW2lRHPmXtG/view?usp=drive_link)
 
 ## 🎯 Overview
 
@@ -39,7 +39,7 @@ AI Immigration Lawyer is a cutting-edge SaaS platform that leverages Generative 
 
 Watch our comprehensive demo to see the AI Immigration Lawyer in action:
 
-[https://github.com/user-attachments/assets/your-video-file-name.mp4](https://github.com/salmansajidsattar/USIMMIGLawyer_Agentic_Application/blob/main/Screen%20Recording%202025-08-08%20025541.mp4)
+[https://github.com/user-attachments/assets/your-video-file-name.mp4](https://drive.google.com/file/d/1T0xcrzG7OiIoX8Onb36MIHW2lRHPmXtG/view?usp=drive_link)
 
 *The demo showcases real-time AI analysis, document processing, and the complete user journey from case initiation to resolution.*
 
